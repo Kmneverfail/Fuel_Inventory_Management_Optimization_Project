@@ -1,5 +1,3 @@
-# crispy-adventure
-
 # Fuel Inventory Management Optimization Project
 
 This project focuses on optimizing fuel inventory management for gas stations by analyzing real-world datasets. The goal is to propose cost-effective strategies for fuel replenishment, maximize supplier discounts, and maintain sufficient inventory levels to avoid stockouts. All analyses were conducted using Python and data analysis libraries.
